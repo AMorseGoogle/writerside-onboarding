@@ -74,5 +74,5 @@ Set up a GitHub repo and push the source code to it.
 4.	In the **Add Files for Initial Commit** dialog, select all files, enter a commit message (e.g., `Initial commit`), and click **Add**.
 5.	Wait for the "Successfully shared project on GitHub" notification to appear.
 <note>
-In GitHub, check that the repo is indeed public because sometimes GitHub overrides the <b>Private</b> checkbox setting when the repo is created (consult the <a href="https://docs.github.com/en/apps/creating-github-apps/registering-a-github-app/making-a-github-app-public-or-private">GitHub documentation</a> if you are not sure how to do this).
+In GitHub, check that the repo is indeed public because sometimes GitHub overrides the <b>Private</b> checkbox setting when the repo is created (consult the <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility#changing-a-repositorys-visibility">GitHub documentation</a> if you are not sure how to do this).
 </note>
