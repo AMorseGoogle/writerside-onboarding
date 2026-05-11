@@ -21,8 +21,8 @@ The documentation covers the following workflow:
 
 ## How to View the Source
 
-The primary documentation content is located in the `Writerside/topics` directory. 
-* **Main Topic:** `onboarding-guide.md` (or your specific filename)
+The primary documentation content is located here: 
+[onboarding-writerside-setup.md](Writerside/topics/onboarding-writerside-setup.md)
 
 To open this project in Writerside:
 1. Clone this repository.
