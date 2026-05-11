@@ -1,4 +1,4 @@
-# Writerside Onboarding Guide
+# README
 > [!NOTE]
 > The GitHub preview window does not correctly handle the extended Markdown syntax used for image positioning in Writerside, so images appear to be in the wrong positions. For the correct layout, please view the project in IntelliJ IDEA with the Writerside plugin.
 
