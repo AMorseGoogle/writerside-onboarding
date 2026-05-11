@@ -18,7 +18,7 @@ git config --global user.email "your.email@example.com"
 
 1.	Navigate to the Writerside plugin page.<br>
 If shown the following pop-up, click **Grant**.
-![marketplace access request](onboarding_grant_marketplace_access.png "Marketplace access request"){style="block"}
+![marketplace access request](../images/onboarding_grant_marketplace_access.png "Marketplace access request"){style="block"}
 (After clicking **Grant**, the **Get** button label changes to **Install to IntelliJ IDEA**.)
 2.	Click **Install to IntelliJ IDEA** to start the installation.
 <note>
@@ -36,7 +36,7 @@ If shown the following pop-up, click **Grant**.
 ## Add your onboarding content
 1.	In the **Table of Contents** tool window, click the **+** (Add) button.
 2.	Select **Topic from Template...** and choose **Tutorial**.
-![topic from template](onboarding_topic_from_template.png "Create a topic from a template"){style="block"}
+![topic from template](../images/onboarding_topic_from_template.png "Create a topic from a template"){style="block"}
 3.	In the **Title** field, enter Onboarding: Setting up your Writerside Environment.
 <note>
 Writerside will automatically suggest a filename; you can keep the default or simplify it (for example, onboarding-writerside-setup.md).
@@ -63,7 +63,7 @@ Perform a local build to ensure the project is free of errors and warnings.
 Set up a GitHub repo and push the source code to it.
 1.	From the main menu, select **VCS | Share Project on GitHub**.
 2.  In the **Share Project On GitHub** dialog, configure the following:
-    ![share project on GitHub](onboarding_share_on_github.png "Share the project on GitHub"){style="block"}
+    ![share project on GitHub](../images/onboarding_share_on_github.png "Share the project on GitHub"){style="block"}
 
     **Repository name:** Keep the default writerside-onboarding  
     **Private:** Ensure this checkbox is cleared to keep the repository public.  
